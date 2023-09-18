@@ -1,0 +1,119 @@
+[
+  {
+    "title": "Macarrão mediterrâneo",
+    "description": "Um prato de macarrão com ingredientes típicos da região mediterrânea, como azeite de oliva, tomates, alho, azeitonas e manjericão, criando um sabor fresco e delicioso.",
+    "photo": "/assets/pratos/macarrao_mediterraneo.png",
+    "size": 400,
+    "serving": 2,
+    "price": 73.0,
+    "id": 1,
+    "category": {
+      "id": 1,
+      "label": "Massas"
+    }
+  },
+  {
+    "title": "Macarrão da casa",
+    "description": "Um prato de macarrão preparado com uma receita especial da casa, que pode variar dependendo do restaurante, mas geralmente inclui uma combinação única de molhos, ervas e ingredientes.",
+    "photo": "/assets/pratos/macarrao_da_casa.png",
+    "size": 400,
+    "serving": 2,
+    "price": 54.0,
+    "id": 2,
+    "category": {
+      "id": 1,
+      "label": "Massas"
+    }
+  },
+  {
+    "title": "Macarrão com chilli",
+    "description": "Macarrão servido com um molho picante à base de carne moída, feijão e temperos, proporcionando um toque picante e saboroso.",
+    "photo": "/assets/pratos/macarrao_com_chilli.png",
+    "size": 350,
+    "serving": 1,
+    "price": 58.0,
+    "id": 3,
+    "category": {
+      "id": 1,
+      "label": "Massas"
+    }
+  },
+  {
+    "title": "Salada da casa com salmão grelhado",
+    "description": "Uma salada fresca com uma base de vegetais verdes, geralmente acompanhada de salmão grelhado para adicionar proteína e sabor extra.",
+    "photo": "/assets/pratos/salada_da_casa.png",
+    "size": 450,
+    "serving": 1,
+    "price": 42.0,
+    "id": 4,
+    "category": {
+      "id": 2,
+      "label": "Carnes"
+    }
+  },
+  {
+    "title": "Bife com batatas",
+    "description": "Um prato clássico que consiste em um bife grelhado, muitas vezes temperado com ervas e especiarias, servido com batatas preparadas de várias maneiras, como fritas, assadas ou purê.",
+    "photo": "/assets/pratos/bife_com_batatas.png",
+    "size": 550,
+    "serving": 2,
+    "price": 86.0,
+    "id": 5,
+    "category": {
+      "id": 2,
+      "label": "Carnes"
+    }
+  },
+  {
+    "title": "Picanha picada com legumes e massa",
+    "description": "Picanha, um corte de carne bovina muito apreciado, é preparada picada e servida com legumes e macarrão, criando uma refeição completa e saborosa.",
+    "photo": "/assets/pratos/picanha_picada.png",
+    "size": 850,
+    "serving": 3,
+    "price": 123.0,
+    "id": 6,
+    "category": {
+      "id": 3,
+      "label": "Combos"
+    }
+  },
+  {
+    "title": "Lasagna vegana (carne de soja)",
+    "description": "Uma versão vegana da clássica lasanha, preparada com carne de soja ou outro substituto de carne, intercalada com camadas de massa e molho de tomate.",
+    "photo": "/assets/pratos/lasagna_vegana.png",
+    "size": 350,
+    "serving": 1,
+    "price": 45.0,
+    "id": 7,
+    "category": {
+      "id": 4,
+      "label": "Veganos"
+    }
+  },
+  {
+    "title": "Salada especial",
+    "description": "Uma salada única preparada com uma variedade de ingredientes frescos, como folhas verdes, legumes, queijo, nozes ou frutas, acompanhada por um molho especial que realça os sabores.",
+    "photo": "/assets/pratos/salada_especial.png",
+    "size": 350,
+    "serving": 1,
+    "price": 37.0,
+    "id": 8,
+    "category": {
+      "id": 4,
+      "label": "Veganos"
+    }
+  },
+  {
+    "title": "Almôndegas",
+    "description": "Pequenas bolas de carne, geralmente de carne bovina ou suína, temperadas com ervas e especiarias, cozidas em molho de tomate ou outra preparação. Podem ser servidas como acompanhamento ou como prato principal.",
+    "photo": "/assets/pratos/almondegas.png",
+    "size": 740,
+    "serving": 3,
+    "price": 120.0,
+    "id": 9,
+    "category": {
+      "id": 3,
+      "label": "Combos"
+    }
+  }
+]
