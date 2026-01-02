@@ -88,4 +88,4 @@ Você também pode reportar bugs ou sugerir melhorias na seção de [Issues](htt
 
 ## 👥 Autor
 
-Desenvolvido por **Wereouts**. Se você gostou deste projeto, sinta-se à vontade para entrar em contato ou deixar uma estrela no repositório!
+Desenvolvido por **Guilherme Costa Alves**. Se você gostou deste projeto, sinta-se à vontade para entrar em contato ou deixar uma estrela no repositório!
